@@ -1,7 +1,7 @@
 
 # Server Socket
 
-First program od Sockets course.
+First program of Sockets course.
 
 Rebuild Node modules
 ```
