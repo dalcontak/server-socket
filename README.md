@@ -1,19 +1,19 @@
 
 # Server Socket
 
-Primera practica del curso de Sockets.
+First program od Sockets course.
 
-Reconstruir modulos de Node
+Rebuild Node modules
 ```
 npm install
 ```
 
-Generar el DIST
+Generate DIST
 ```
 tsc -w
 ```
 
-Levantar servidor, cualquiere de los siguientes comandos
+Server up
 ```
 nodemon dist/
 node dist/
